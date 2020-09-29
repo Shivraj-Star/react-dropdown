@@ -1,0 +1,67 @@
+@import './animate.scss';
+@import '~font-awesome/css/font-awesome.min.css';
+
+.col-10 {
+    width: 100%;
+}
+
+.col-5 {
+    width: 50%;
+}
+
+.col-3 {
+    width: 30%;
+}
+
+.col-offset-3 {
+    margin-left: 30%;
+}
+.col-offset-25 {
+    margin-left: 25%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.inline {
+    display: inline;
+}
+
+.text-white {
+    color: white;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.pull-right {
+    float: right;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.alert-grey {
+    padding: 20px;
+    background: #787f80;
+    color: white;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.row{
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+.pad-15{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.text-info{
+    color: #09697e;
+}

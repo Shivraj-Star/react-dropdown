@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "value": "Balwant Padwal"
+        },
+        {
+            "id": 2,
+            "value": "Bhagyashri Patil"
+        },
+        {
+            "id": 3,
+            "value": "Sushant Pawar"
+        },
+        {
+            "id": 4,
+            "value": "Pimple Pravin"
+        },
+        {
+            "id": 5,
+            "value": "Sujit Patil"
+        }
+    ]
+}

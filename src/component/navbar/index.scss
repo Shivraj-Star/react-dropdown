@@ -1,0 +1,31 @@
+.navbar {
+    padding: 20px;
+    margin-bottom: 30px;
+    background: #3e5055;
+    box-shadow: 1px 1px 12px;
+
+    a {
+        color: white;
+        text-decoration: none;
+        font-size: 17px;
+        margin: 0 10px;
+        cursor: pointer;
+
+        &:hover {
+            color: #71e5ff;
+            transition: all linear 0.5s;
+        }
+    }
+
+    .font-20 {
+        font-size: 20px;
+    }
+
+    .selected {
+        color: #71e5ff;
+    }
+
+
+
+
+}
